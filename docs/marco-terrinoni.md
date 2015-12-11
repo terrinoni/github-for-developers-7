@@ -7,3 +7,5 @@
 *Fav. food*: pizza
 
 *Hobby*: coding
+
+*Color*: green
