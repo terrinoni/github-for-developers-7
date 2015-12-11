@@ -9,3 +9,5 @@
 *Hobby*: coding
 
 *Color*: green
+
+*Current city*: Turin
